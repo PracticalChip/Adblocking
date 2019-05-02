@@ -31,6 +31,7 @@ c.amazon-adsystem.com
 countess.twitch.tv
 pubsub-edge.twitch.tv
 cdn-gl.imrworldwide.com
+mads.amazon-adsystem.com
 
 # Amazon AWS (???) - whitelist to make Kryptonite work
 
