@@ -20,6 +20,10 @@
 a-msedge.net
 a463.w10.akamai.net
 a790.w16.akamai.net
+aan.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+aax-us-pdx.amazon-adsystem.com
+aax.amazon-adsystem.com
 about.me
 about.medium.com
 accounts.elephantjournal.com
@@ -974,4 +978,3 @@ zapier.com
 zdnet.com
 zomato.com
 zoom.us
-
