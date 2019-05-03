@@ -1,6 +1,8 @@
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
 
+*.github.com
+*.github.io
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
@@ -992,3 +994,4 @@ zdnet.com
 zeustracker.abuse.ch
 zomato.com
 zoom.us
+
