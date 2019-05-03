@@ -6,6 +6,7 @@
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
 
 # Microsoft services
+
 settings-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
@@ -25,11 +26,13 @@ answers.microsoft.com
 www.msftncsi.com
 win10.ipv6.microsoft.com
 
-#Social Media
+# Social Media
+
 cdn.syndication.twimg.com
 app-measurement.com
 
 # Github Stuff
+
 desktop.github.com
 *.github.io
 *.github.com
@@ -56,15 +59,7 @@ countess.twitch.tv
 pubsub-edge.twitch.tv
 cdn-gl.imrworldwide.com
 mads.amazon-adsystem.com
-<<<<<<< HEAD
 fls-na.amazon.com
-=======
-
-fls-na.amazon.com
-
-# Amazon AWS (???) - whitelist to make Kryptonite work
-
->>>>>>> 1220fe16918326ebcecbc864e128d51324749ee4
 sqs.us-east-1.amazonaws.com
 
 # Bild.de
