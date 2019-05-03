@@ -5,7 +5,31 @@
 # Project home page: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
 
-#Github Stuff
+# Microsoft services
+settings-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+login.live.com
+login.microsoftonline.com
+m.hotmail.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+partner.microsoft.com
+answers.microsoft.com
+www.msftncsi.com
+win10.ipv6.microsoft.com
+
+#Social Media
+cdn.syndication.twimg.com
+app-measurement.com
+
+# Github Stuff
 desktop.github.com
 *.github.io
 *.github.com
@@ -22,7 +46,7 @@ s.cdn.turner.com
 z.cdn.turner.com
 amd.cdn.turner.com
 
-# Amazon Alexa, Amazon Shopping app, and Twitch
+# Amazon and Twitch
 
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
@@ -32,9 +56,7 @@ countess.twitch.tv
 pubsub-edge.twitch.tv
 cdn-gl.imrworldwide.com
 mads.amazon-adsystem.com
-
-# Amazon AWS (???) - whitelist to make Kryptonite work
-
+fls-na.amazon.com
 sqs.us-east-1.amazonaws.com
 
 # Bild.de
@@ -229,7 +251,7 @@ fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
 
-# Raw Whitelist
+# RawWhitelist
 
 0.client-channel.google.com
 1drv.com
@@ -330,9 +352,7 @@ linkedin.com
 linuxtracker.org
 live.com
 login.aliexpress.com
-login.live.com
-login.microsoftonline.com
-m.hotmail.com
+
 manifest.googlevideo.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
@@ -420,7 +440,6 @@ videos.vidible.tv
 vimeo.com
 widget-cdn.rpxnow.com
 wikipedia.org
-win10.ipv6.microsoft.com
 wordpress.com
 wp.com
 ws.audioscrobbler.com
@@ -428,7 +447,6 @@ www.dataplicity.com
 www.googleapis.com
 www.icloud.com
 www.linuxtracker.org
-www.msftncsi.com
 www.no-ip.com
 www.plex.tv
 www.solaredge.com
@@ -437,10 +455,6 @@ www.twitter.com
 www.xboxlive.com
 www.youtube-nocookie.com
 xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xboxlive.com
-xsts.auth.xboxlive.com
 yahoo.com
 youtu.be
 youtube-nocookie.com
@@ -1281,9 +1295,6 @@ media-vie1-1.cdn.whatsapp.net
 media-waw1-1.cdn.whatsapp.net
 bit.ly
 about.me
-img-prod-cms-rt-microsoft-com.akamaized.net
-partner.microsoft.com
-answers.microsoft.com
 i0.wp.com
 c0.wp.com
 edge.api.brightcove.com
