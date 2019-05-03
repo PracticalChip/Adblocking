@@ -31,8 +31,6 @@ actionnetwork.org
 activation.sls.microsoft.com
 ad.atdmt.com
 ad.doubleclick.net
-adaway.org
-adblock.gjtech.net
 addons.prestashop.com
 adf.ly
 ae01.alicdn.com
@@ -303,7 +301,6 @@ e7065.e2.akamaiedge.net
 e8.whatsapp.net
 e9.whatsapp.net
 ea.com
-easylist-downloads.adblockplus.org
 ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edata.ndtv.com
@@ -481,7 +478,6 @@ js.indexww.com
 js.maxmind.com
 js.stripe.com
 jsdelivr.net
-kb.adguard.com
 keystone.mwbsys.com
 khanacademy.org
 kinja-debug.firebaseio.com
@@ -525,7 +521,6 @@ mail-attachment.googleusercontent.com
 mail.yahoo.com
 mail01.tinyletterapp.com
 malekal.com
-malwaredomainlist.com
 malwareurls.joxeankoret.com
 manifest.auditude.com
 manifest.googlevideo.com
@@ -785,7 +780,6 @@ s3.ap-south-1.amazonaws.com
 s3.symcb.com
 s4.symcb.com
 s5.symcb.com
-sa-blacklist.stearns.org
 sa.symcb.com
 safaribooksonline.com
 safebrowsing.google.com
