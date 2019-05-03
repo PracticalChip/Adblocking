@@ -56,7 +56,15 @@ countess.twitch.tv
 pubsub-edge.twitch.tv
 cdn-gl.imrworldwide.com
 mads.amazon-adsystem.com
+<<<<<<< HEAD
 fls-na.amazon.com
+=======
+
+fls-na.amazon.com
+
+# Amazon AWS (???) - whitelist to make Kryptonite work
+
+>>>>>>> 1220fe16918326ebcecbc864e128d51324749ee4
 sqs.us-east-1.amazonaws.com
 
 # Bild.de
