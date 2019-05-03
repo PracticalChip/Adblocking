@@ -33,6 +33,8 @@ pubsub-edge.twitch.tv
 cdn-gl.imrworldwide.com
 mads.amazon-adsystem.com
 
+fls-na.amazon.com
+
 # Amazon AWS (???) - whitelist to make Kryptonite work
 
 sqs.us-east-1.amazonaws.com
