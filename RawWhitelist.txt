@@ -22,7 +22,6 @@ a463.w10.akamai.net
 a790.w16.akamai.net
 about.me
 about.medium.com
-abuse.ch
 accounts.elephantjournal.com
 accounts.google.com
 accuweather.com
@@ -352,7 +351,6 @@ fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 feedburner.google.com
 feeds.feedburner.com
-feodotracker.abuse.ch
 filament.io
 files.brightcove.com
 files.overclock.net
@@ -733,7 +731,6 @@ qa.sockets.stackexchange.com
 qksrv.net
 query.prod.cms.rt.microsoft.com
 ramp.purch.com
-ransomwaretracker.abuse.ch
 rawgit.com
 rd.symcd.com
 reddestdream.github.io
@@ -834,7 +831,6 @@ ssl.bblck.me
 ssl.google-analytics.com
 ssl.gstatic.com
 ssl.p.jwpcdn.com
-sslbl.abuse.ch
 stackexchange.com
 stackoverflow.com
 staging.plex.tv
@@ -976,7 +972,6 @@ yt3.ggpht.com
 z.cdn.turner.com
 zapier.com
 zdnet.com
-zeustracker.abuse.ch
 zomato.com
 zoom.us
 
