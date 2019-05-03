@@ -33,7 +33,6 @@ ad.atdmt.com
 ad.doubleclick.net
 adaway.org
 adblock.gjtech.net
-adblock.mahakala.is
 addons.prestashop.com
 adf.ly
 ae01.alicdn.com
@@ -420,7 +419,6 @@ help.ui.xboxlive.com
 hls.ted.com
 hn.algolia.com
 home.bt.com
-hosts-file.net
 hosts.herndl.org
 hostsfile.mine.nu
 hostsfile.org
@@ -677,7 +675,6 @@ ojrq.net
 olx.in
 om.cbsi.com
 oms.symantec.com
-onedrive.live.com
 onenetworkdirect.net
 onesignal.com
 onlinecourses.nptel.ac.in
@@ -696,7 +693,6 @@ pastebin.com
 paypal.com
 paytm.com
 pgi.billdesk.com
-pgl.yoyo.org
 phishing.mailscanner.info
 pinterest.com
 pixel.nymag.com
@@ -743,7 +739,6 @@ qksrv.net
 query.prod.cms.rt.microsoft.com
 ramp.purch.com
 ransomwaretracker.abuse.ch
-raw.githubusercontent.com
 rawgit.com
 rd.symcd.com
 reddestdream.github.io
@@ -834,7 +829,6 @@ smokingwheels.github.io
 smtp.mail.yahoo.com
 snapdeal.com
 solaredge.com
-someonewhocares.org
 space.com
 spaceflightnow.com
 spclient.wg.spotify.com
@@ -965,7 +959,6 @@ wikipedia.org
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 windows.net
-winhelp2002.mvps.org
 wired.com
 wordpress.com
 wp.com
