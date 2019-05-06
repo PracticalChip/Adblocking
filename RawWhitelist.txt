@@ -1,6 +1,8 @@
 # Contributed by PracticalChip
 # Project home page https://github.com/PracticalChip/Adblocking
 
+# This was added at the request of the developer of Diversion
+
 aax-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 aax-us-east.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ad2.netshelter.net # whitelisted for smallnetbuilder.com
@@ -22,6 +24,10 @@ wms-na.assoc-amazon.com # whitelisted for smallnetbuilder.com
 ws-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ws-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
+
+# Begin Unbreak whitelist.
+
+
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
