@@ -1002,3 +1002,4 @@ zdnet.com
 zomato.com
 zoom.us
 best.aliexpress.com
+feedly.com
