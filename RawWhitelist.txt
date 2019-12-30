@@ -1003,3 +1003,5 @@ zomato.com
 zoom.us
 best.aliexpress.com
 feedly.com
+aax-us-iad.amazon.com
+aan.amazon.com
