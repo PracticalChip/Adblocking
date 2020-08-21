@@ -27,7 +27,8 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 
 # Begin Unbreak whitelist.
 
-
+aax-us-iad.amazon.com
+mads-eu.amazon.com
 0-edge-chat.facebook.com
 0.client-channel.google.com
 1-edge-chat.facebook.com
