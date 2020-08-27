@@ -27,6 +27,7 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 
 # Begin Unbreak whitelist.
 
+choices.trustarc.com
 pinpoint.us-east-1.amazonaws.com
 aax-us-iad.amazon.com
 mads-eu.amazon.com
