@@ -3,6 +3,9 @@
 
 # This was added at the request of the developer of Diversion
 
+steamcdn-a.akamaihd.net
+media.steampowered.com	
+media4.steampowered.com
 aax-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 aax-us-east.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ad2.netshelter.net # whitelisted for smallnetbuilder.com
