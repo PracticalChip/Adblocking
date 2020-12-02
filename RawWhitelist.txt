@@ -54,6 +54,7 @@ a-msedge.net
 a463.w10.akamai.net
 a790.w16.akamai.net
 aan.amazon-adsystem.com
+aan.amazon.com
 aax-us-pdx.amazon-adsystem.com
 aax.amazon-adsystem.com
 about.me
